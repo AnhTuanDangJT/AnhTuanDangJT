@@ -51,6 +51,12 @@ I'm constantly learning, experimenting, and turning ideas into real applications
 
 ---
 
+🌐 Personal Websites & Projects
+
+- 🏋️ **AI Fitness App**  
+  https://ai-fitness-app-one.vercel.app  
+  AI-powered fitness platform with workout planning, meal recommendations, and progress tracking.
+
 ## 📊 GitHub Stats
 
 <p align="center">
