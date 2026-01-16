@@ -57,12 +57,19 @@ I'm constantly learning, experimenting, and turning ideas into real applications
   https://ai-fitness-app-one.vercel.app  
   AI-powered fitness platform with workout planning, meal recommendations, and progress tracking.
 
+- 💼 **Job Application Copilot**  
+  https://job-application-copilot-two.vercel.app/  
+  Smart job/internship application assistant for students, featuring tracking, guidance, and AI-powered support.
+
+- ☕ **May Coffee Store Website**  
+  https://www.maycoffee.store/en  
+  Digital solution for a local coffee store with multilingual menu, modern UI, and customer-friendly experience.
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnhTuanDangJT&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=AnhTuanDangJT&theme=dark&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTuanDangJT&theme=dark&hide_border=false&layout=compact" height="160" />
 </p>
 
 ---
